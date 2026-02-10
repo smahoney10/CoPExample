@@ -2,5 +2,5 @@
 
 <img src="CMS.png" alt="Description" width="800">
 
-[Enter the SMA CoP Discussion](https://https://github.com/smahoney10/CoPExample/discussions)\
+[Enter the SMA CoP Discussion](https://github.com/smahoney10/CoPExample/discussions)\
 [Enter the SMA CoP FAQ](https://github.com/smahoney10/CoPExample/discussions/categories/q-a)\
